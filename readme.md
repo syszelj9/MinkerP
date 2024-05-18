@@ -16,7 +16,7 @@ Clone the repository and compile the program:
 
 ```bash
 git clone https://github.com/yourusername/my_mp3_player.git
-cd my_mp3_player
+cd MinkerP
 sudo make
 ```
 
