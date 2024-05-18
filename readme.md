@@ -15,7 +15,7 @@ A lightweight bare-bones command line mp3 player made in C.
 Clone the repository and compile the program:
 
 ```bash
-git cone https://github.com/syszelj9/MinkerP
+git clone https://github.com/syszelj9/MinkerP
 cd MinkerP
 sudo make
 ```
