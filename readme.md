@@ -5,6 +5,21 @@ A lightweight bare-bones command line mp3 player made in C.
 <a href="#">
     <img src="https://img.shields.io/badge/1-Release-Release?logo=gitlab" /></a>
 
+## Requirements
+
+- gcc
+- mpg123
+
+## Installation
+
+Clone the repository and compile the program:
+
+```bash
+git clone https://github.com/yourusername/my_mp3_player.git
+cd my_mp3_player
+sudo make
+```
+
 _____________
 Starting out
 -------------
