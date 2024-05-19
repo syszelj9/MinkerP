@@ -23,7 +23,7 @@ sudo make
 _____________
 Starting out
 -------------
-1. Once you have built the package, simply do `./player <name of the directory where the music is stored>`
+1. Once you have built the package, simply do `minkerp <path of music directory>`
 The player will immediately start playing the first song.
 
 _____________________
@@ -49,7 +49,7 @@ COMMON ERRORS
 --------------
 1. `Failed to execute mpg123` or `Fork failed`, you are missing the MPG123 package.
 2. `Invalid choice, please try again`, there is something wrong with the file you are trying to play, or it just doesn't exist.
-3. `Failed to open directory`, failed to open the given directory..
+3. `Failed to open directory`, failed to open the given directory, it is important to enter the full path of the directory and it should contain only mp3 files.
 
 _____________
 DEPENDENCIES
