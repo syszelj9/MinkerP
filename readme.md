@@ -1,7 +1,7 @@
 A lightweight bare-bones command line mp3 player made in C.
 
-<a href="#">
-    <img src="https://img.shields.io/badge/1.0-Version-Version" /></a>
+![Static Badge](https://img.shields.io/badge/1.1-Version-Version)
+
 <a href="#">
     <img src="https://img.shields.io/badge/1-Release-Release?logo=gitlab" /></a>
 
